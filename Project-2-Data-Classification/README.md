@@ -13,6 +13,8 @@ The project demonstrates the basic workflow of supervised machine learning inclu
 * Prediction
 * Model evaluation
 
+# Note: If the notebook preview (in data_classification file) does not render on GitHub, please use the Raw option to view the notebook source or refer to the Python (.py) version included in this repository.
+
 # Technologies Used
 * Python
 * Pandas
