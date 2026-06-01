@@ -1,7 +1,8 @@
 # DecodeLabs_Intership_All-Projects
 Collection of AI internship projects including a Rule-Based Chatbot, Data Classification, AI Recommendation System, and Image Text Recognition using Python and AI concepts.
 
-# DecodeLabs AI Internship Tasks 🚀 Welcome to my DecodeLabs AI Internship repository.
+# DecodeLabs AI Internship Tasks 🚀 
+Welcome to my DecodeLabs AI Internship repository.
 
 This repository contains all the projects I completed during my AI Internship. Through these projects, I explored different AI concepts ranging from rule-based systems and machine learning to recommendation systems and optical character recognition (OCR).
 The internship helped me gain practical experience in Python programming, problem-solving, data processing, machine learning workflows, recommendation logic, and computer vision applications.
